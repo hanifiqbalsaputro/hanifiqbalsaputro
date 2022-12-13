@@ -1,30 +1,36 @@
 # Hi there, I'm Hanif - aka [hanifiqbalsaputro] 👋
 ## About me:
-- 🔭 I’m currently working at [Kelurahan Pademangan Timur]
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🔭 I’m currently working at [Kelurahan Pademangan Timur](https://web.facebook.com/profile.php?id=100014010131425) 
+- 🌱 I’m currently learning Photography
+- 👯 I’m looking for new challenges at work
+- 🤔 I'm looking for suggest on photography and graphic design
 - 💬 Ask me about anything
 - 📫 How to reach me: hanifiqbals8@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+#### 1. [Universitas Muhammadiyah Yogyakarta](https://www.umy.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2013-2017`
+   - Faculty Student Representative Council | Head Of The Supervision Commission | `2014-2015`
+   - Student Council Of Electrical Engineering | Head Of Interest And Talent Section | `2015-2016`
+   - University Student Representative Council | Chief Of Organization | `2016-2017`
+ #### 2. [SMA N 1 Palimanan](https://sman1palimanan.sch.id/) | MIPA | Cirebon `2010-2013`
    - Chief of Rohkris
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT. Industri Keramik Angsa Daya](http://www.ikadceramic.com/) | Production Staff | Tangerang `Dec'2017 - Feb 2019`
+   - Collect production data from operators
+   - Processing data (calculating machine work effectiveness
+   - Calculating the conversion of raw materials to production and scrap (waste)
+   - Controlling the production process and its compliance with written data
+   - Make daily reports (production achievements)
+#### 2. [Kelurahan Pademangan Timur](https://web.facebook.com/profile.php?id=100014010131425) | PJLP | Office Administration | North Jakarta `Jan'2020 - Now`
+   - Create an Office Agenda
+   - Make a Letter
+   - Managing Office Documents
+   - Perform Data Entry
+   - Perform Data Archiving
+   - Ensuring ATK Supplies
+   - Preparing Accommodation
 ---
 
 ### Languages and Tools:
