@@ -36,11 +36,12 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Adobe Photoshop" width="30px" src="https://www.bilgisayar.name/wp-content/uploads/2014/02/logo-photoshop.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Auto CAD" width="30px" src="https://e7.pngegg.com/pngimages/92/495/png-clipart-logo-autocad-2014-autodesk-computer-software-architecture-drawing-angle-3d-computer-graphics.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Corel Draw" width="30px" src="hhttps://www.gamelab.id/uploads/news/berita-216-coreldraw-software-vector-mudah-untuk-desain-grafis-20200601-080701.jpg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Premiere Pro" width="https://img2.pngdownload.id/20180325/phq/kisspng-adobe-premiere-pro-adobe-creative-cloud-adobe-syst-adobe-5ab7f436dfcd20.9997444815220050469167.jpg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="Word" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzjnUyoueW9WeYXbtC8lFINRA1hvwBHop7CWGstMeRwD-SSjNkTk309Hjzh4EilAuuCI&usqp=CAU" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Power Point" width="50px" src="https://w7.pngwing.com/pngs/980/706/png-transparent-microsoft-powerpoint-presentation-slide-show-microsoft-office-365-ppt-text-rectangle-presentation.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
