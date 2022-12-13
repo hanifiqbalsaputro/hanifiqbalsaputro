@@ -35,7 +35,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Adobe Photoshop" width="80px" src="https://www.bilgisayar.name/wp-content/uploads/2014/02/logo-photoshop.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Photoshop" width="65px" src="https://www.bilgisayar.name/wp-content/uploads/2014/02/logo-photoshop.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Auto CAD" width="80px" src="https://e7.pngegg.com/pngimages/92/495/png-clipart-logo-autocad-2014-autodesk-computer-software-architecture-drawing-angle-3d-computer-graphics.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Corel Draw" width="50px" src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ762urG9kVQTnFpzCzzTq25GduNCRDfTI3IrAFWLOjiVkLowbBufrD890E8Cc4Zdqw5sg&usqp=CAU" style="padding-right:10px;" />][webdev]
