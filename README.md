@@ -14,7 +14,7 @@
    - Student Council Of Electrical Engineering | Head Of Interest And Talent Section | `2015-2016`
    - University Student Representative Council | Chief Of Organization | `2016-2017`
  #### 2. [SMA N 1 Palimanan](https://sman1palimanan.sch.id/) | MIPA | Cirebon `2010-2013`
-   - Chief of Rohkris
+   - Chief of School Security Patrol
 
 ## Work Experience:
 #### 1. [PT. Industri Keramik Angsa Daya](http://www.ikadceramic.com/) | Production Staff | Tangerang `Dec'2017 - Feb 2019`
@@ -35,7 +35,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Photoshop" width="30px" src="https://www.bilgisayar.name/wp-content/uploads/2014/02/logo-photoshop.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
@@ -46,20 +46,5 @@
 <br />
 
 ---
-### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/hanifiqbalsaputro/hanifiqbalsaputro
