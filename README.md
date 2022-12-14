@@ -23,7 +23,7 @@
    - Calculating the conversion of raw materials to production and scrap (waste)
    - Controlling the production process and its compliance with written data
    - Make daily reports (production achievements)
-#### 2. [Kelurahan Pademangan Timur](https://web.facebook.com/profile.php?id=100014010131425) | PJLP | Office Administration | North Jakarta `Jan'2020 - Now`
+#### 2. [Kelurahan Pademangan Timur](https://web.facebook.com/profile.php?id=100014010131425) | PJLP | Administration Officer | North Jakarta `Jan'2020 - Now`
    - Create an Office Agenda
    - Make a Letter
    - Managing Office Documents
